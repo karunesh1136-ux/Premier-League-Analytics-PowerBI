@@ -1,6 +1,6 @@
 # Premier League Analytics Dashboard (2006-2018)
 
-> **Goal:** A high-end Power BI report designed to track 12 seasons of EPL data with a focus on professional UI/UX and mobile accessibility.
+>* **Goal:** A high-end Power BI report designed to track 12 seasons of EPL data with a focus on professional UI/UX and mobile accessibility.
 
 ---
 
@@ -23,6 +23,7 @@
 * **KPIs:** Tracked 12K Goals, 15K Yellow Cards, and 3K Clean Sheets across a decade of play.
 * **Design:** Implemented a modern "App-like" feel using rounded corners, shadow effects, and consistent branding.
 
+
 ---
 
 ## Mobile Version
@@ -30,3 +31,12 @@
   <img height="798"  width="300" alt="Screenshot 2026-01-05 204213" src="https://github.com/user-attachments/assets/db88b83e-d3bb-4a6a-b422-3b016dae3814" />
  
 </p>
+
+---
+
+## **How to Access**
+* Download the Prem Table.pbix to explore the interactive model.
+
+
+
+
