@@ -1,2 +1,4 @@
 # Premier-League-Analytics-PowerBI
-An interactive Power BI dashboard analysing 12 seasons of Premier League data with trend forecasting and mobile optimization.
+
+Overview
+Interactive Power BI dashboard analyzing 12 seasons of EPL data. Designed to visualize team performance trends and defensive/offensive metrics through a professional UI.
