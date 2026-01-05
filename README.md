@@ -27,6 +27,6 @@
 
 ## Mobile Version
 <p align="center">
-  <img width="470" height="798"  width="300" alt="Screenshot 2026-01-05 204213" src="https://github.com/user-attachments/assets/db88b83e-d3bb-4a6a-b422-3b016dae3814" />
+  <img height="798"  width="300" alt="Screenshot 2026-01-05 204213" src="https://github.com/user-attachments/assets/db88b83e-d3bb-4a6a-b422-3b016dae3814" />
  
 </p>
